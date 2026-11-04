@@ -1,0 +1,14 @@
+*.aliases
+*.lvlps
+*.lvautosave
+*.bak
+*.pdb
+*.obj
+.env
+.env.*
+*.pem
+*.pfx
+Data/*
+!Data/.gitkeep
+LOG/*
+!LOG/.gitkeep
